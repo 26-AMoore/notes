@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "useTab": true,
+  "vimMode": true,
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "autoPairMarkdown": true
+}

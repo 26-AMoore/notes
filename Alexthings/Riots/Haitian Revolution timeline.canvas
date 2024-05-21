@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"8917da4dc1482d5b","x":-360,"y":-360,"width":250,"height":120,"type":"text","text":"In <span style=\"color:#ffc000\">1793</span> Toussaint begins to work with Spain to get arms for his soldiers."},
+		{"id":"4a69a62a3bea2361","x":-280,"y":-199,"width":250,"height":60,"type":"text","text":"White planters enlist the help of Britain to repel the Ex-Slave armies."},
+		{"id":"ffce079527e7993e","x":-30,"y":-439,"width":230,"height":199,"type":"text","text":"By <span style=\"color:#ffc000\">1794</span> Spain, Great Britain, France, and the Ex-Slave armies are all fighting for control of the territory of Haiti."},
+		{"id":"7d0cf26b06d205bf","x":-18,"y":-179,"width":298,"height":99,"type":"text","text":"Robespierre abolishes slavery in Haiti and grants all former slaves french citizenship."},
+		{"id":"ed368fc4de839f17","x":-18,"y":-30,"width":338,"height":105,"type":"text","text":"After abolition L'Ouverture gives up working with Spain, and moves back to working with France"},
+		{"id":"df3c05728a491af3","x":320,"y":-406,"width":174,"height":135,"type":"text","text":"By <span style=\"color:#ffc000\">1797</span> French and Ex-Slave forces finally push Britain out"},
+		{"id":"e7eb257fe99a6ca2","x":299,"y":-195,"width":250,"height":60,"type":"text","text":"Civil war begins in <span style=\"color:#ffc000\">1799</span>"},
+		{"id":"dc17ac29457d98ab","x":605,"y":-358,"width":250,"height":219,"type":"text","text":"In <span style=\"color:#ffc000\">1801</span>, L'Ouverture declares a new constitution for Haiti - which abolishes slavery (But outlaws voodoo and established himself as governor for life)"},
+		{"id":"21719f8b104a34a9","x":889,"y":-322,"width":250,"height":148,"type":"text","text":"Toussaint L'Overture becomes unpopular with many Haitians by <span style=\"color:#ffc000\">1801-1802</span>"},
+		{"id":"dfece272d2eaef5a","x":1200,"y":-339,"width":250,"height":182,"type":"text","text":"Napoleon Bonaparte sends french troops ti regain control of the island in <span style=\"color:#ffc000\">February</span> <span style=\"color:#ffc000\">1802</span>; reinstates Slavery in the colony."},
+		{"id":"57d489f7ad0d889a","x":1520,"y":-351,"width":250,"height":205,"type":"text","text":"Jean-Jaqcues Dessaline's forces (alongside yellow fever) Largely defeat french forces by <span style=\"color:#ffc000\">mid-1803</span> through destroying cities"},
+		{"id":"c5f4c491eccbae9e","x":1520,"y":-80,"width":250,"height":132,"type":"text","text":" Desaline orders the killing of all remaining whites on the island; Over <span style=\"color:#ff0000\">4,000 killed</span>"}
+	],
+	"edges":[
+		{"id":"cbe209c57d26ac67","fromNode":"8917da4dc1482d5b","fromSide":"bottom","toNode":"4a69a62a3bea2361","toSide":"top"},
+		{"id":"351e2774306e585c","fromNode":"8917da4dc1482d5b","fromSide":"right","toNode":"ffce079527e7993e","toSide":"left"},
+		{"id":"18391a59c855c49a","fromNode":"ffce079527e7993e","fromSide":"bottom","toNode":"7d0cf26b06d205bf","toSide":"top"},
+		{"id":"eede51d548af6291","fromNode":"7d0cf26b06d205bf","fromSide":"bottom","toNode":"ed368fc4de839f17","toSide":"top"},
+		{"id":"7590733362bc7865","fromNode":"ffce079527e7993e","fromSide":"right","toNode":"df3c05728a491af3","toSide":"left"},
+		{"id":"a38830208123781c","fromNode":"df3c05728a491af3","fromSide":"bottom","toNode":"e7eb257fe99a6ca2","toSide":"top"},
+		{"id":"f7dae81ac5f4dde7","fromNode":"e7eb257fe99a6ca2","fromSide":"right","toNode":"dc17ac29457d98ab","toSide":"left"},
+		{"id":"a554513a66fdb27a","fromNode":"dc17ac29457d98ab","fromSide":"right","toNode":"21719f8b104a34a9","toSide":"left"},
+		{"id":"7b49f0d7ade58804","fromNode":"21719f8b104a34a9","fromSide":"right","toNode":"dfece272d2eaef5a","toSide":"left"},
+		{"id":"9e1c724a2aa4bfb2","fromNode":"dfece272d2eaef5a","fromSide":"right","toNode":"57d489f7ad0d889a","toSide":"left"},
+		{"id":"d7d0311481cafd49","fromNode":"57d489f7ad0d889a","fromSide":"right","toNode":"c5f4c491eccbae9e","toSide":"right"}
+	]
+}

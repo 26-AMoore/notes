@@ -1,0 +1,1 @@
+A **free body diagram** is a drawing of all bodies in a system. All bodies' variables of motion, most importantly **forces**, are denoted on this diagram. This helps visualize the unknown variables in a system and also helps to find $\Sigma{F}$ for [[Newton's Second Law]].

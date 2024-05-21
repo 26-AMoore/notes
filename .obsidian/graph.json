@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Latin Language\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 43058
+      }
+    },
+    {
+      "query": "path:Math  ",
+      "color": {
+        "a": 1,
+        "rgb": 3517
+      }
+    },
+    {
+      "query": "path:Physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 1551854
+      }
+    },
+    {
+      "query": "path:\"United States History\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15204208
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.38882940756602,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.6666666666666653,
+  "close": false
+}
