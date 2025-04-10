@@ -1,4 +1,4 @@
-# [[Java]]-esq [[OOP]] language that also uses the [[jvm]]
+# [[Java]]-esq [[OOP]] language that also uses the [[JVM]]
 
 ```kotlin
 fun name(arg: Type = defaultValue): ReturnType {
