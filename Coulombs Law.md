@@ -1,3 +1,4 @@
+#physics 
 Coulombs establish an equation relating the amount of charge to the resultant force [[Fundamental rule of Electrostatics]]
 
 ## Equation

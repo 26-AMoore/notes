@@ -1,3 +1,4 @@
+#physics 
 # Stored energy due to an electric charge, measured in [[Joule]]
 ### Its a type of [[Potential Energy]]
 ### Equation

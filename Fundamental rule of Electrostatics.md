@@ -1,3 +1,4 @@
+#physics 
 # Like charges repel and opposite charges attract
 
 - A charged particle will interact with its environment based on this rule

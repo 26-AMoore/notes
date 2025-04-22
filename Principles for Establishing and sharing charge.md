@@ -1,3 +1,4 @@
+#physics #electronics 
 - Objects start with some charge, Neutral, Positive or Negative
 - When objects touch only [[Electrons]] are allowed to be exchanged between objects
 - Each electron gained or lost by an object has a [[Charge]] of $-e$

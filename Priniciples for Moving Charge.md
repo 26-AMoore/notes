@@ -1,3 +1,4 @@
+#physics #electronics 
 Electrons will move freely in materials but how freely is dependent on the material
 Every material can conduct electricity, just some are more resistant
 

@@ -1,5 +1,6 @@
-# Current through a conductor is proportional to [[Volts|Voltage]] across two points
-## Equation
+#electronics 
+# Resistance
+### Equation
 $$V=IR$$
 V = [[Volts]]
 I = [[Current]] through conductor

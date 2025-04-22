@@ -1,3 +1,4 @@
+#physics 
 # A per [[charge]] relationship for a point
 ### When you remove a charge from [[Electric Potential Energy]]
 ### Equation

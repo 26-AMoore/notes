@@ -1,3 +1,4 @@
+#physics 
 # A prediction of [[Force]]
 ## Based on three things
 - Type of [[Charge]] (+/-)
