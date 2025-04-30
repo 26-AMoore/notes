@@ -1,10 +1,10 @@
+#electronics #physics 
 # [[Circuits]] that are a mix of a [[Series Circuit]] and a [[Parallel Circuit]]
 ### To solve
 1. Solve $R_{t}$
 	1. Start "far away" from the battery in an area that is pure [[Series Circuit]] or [[Parallel Circuit]]
 	2. Replace that section with a single [[Resistor]]
 	3. Repeat
-
 ### Example
 ![Circuit](https://lh7-rt.googleusercontent.com/docsz/AD_4nXefvl0AMpMJAUc8ue_gY0EHn1Uw9M_0FEnDwR-ftoh4CiW0xwhJ72EhDqql26a8kHH3SUKseB-_mOyLtbF8Th0akfAf8S1UVy8qm2YSucGU6BKbsfk85iNUh9LA-MOX0AYEJUwVTmnupY9DyxLhU6mrjIE?key=So7PeCKFxfm6A8LI0LA_2A)
 E = 24 V
