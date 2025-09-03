@@ -9,7 +9,7 @@ q = [[Charge]] in [[Coulomb]]
 r = Distance in [[Meter]]
 ### EPE is a scalar
 - Just magnitude, no direction (okay with +/-)
-	
+
 ### EPE is dependent on
 - Distance between charges
 - Size of charge

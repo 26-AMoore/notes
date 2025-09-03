@@ -1,5 +1,5 @@
 #physics 
-# A per [[charge]] relationship for a point
+# A per [[charge]] **prediction** of [[Energy]] for a point
 ### When you remove a charge from [[Electric Potential Energy]]
 ### Equation
 $$EP = V = k\frac{q_s}{r}$$

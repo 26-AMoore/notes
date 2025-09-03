@@ -1,4 +1,4 @@
-#electronics #physics 
+#electronics 
 # [[Circuits]] that are a mix of a [[Series Circuit]] and a [[Parallel Circuit]]
 ### To solve
 1. Solve $R_{t}$

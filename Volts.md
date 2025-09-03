@@ -1,4 +1,4 @@
-#electronics #physics 
+#electronics #physics #unit
 # A volt is the electrical potential between two points when 1 [[Ampere]] dissipates 1 [[Watt]] of [[Power]] between those points
 ## Equation
 $$V=\frac{J}{C}=\frac{power}{current}=\frac{W}{A}$$

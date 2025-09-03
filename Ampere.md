@@ -1,4 +1,4 @@
-#electronics 
+#electronics #unit
 # An Ampere is defined as 1 [[Coulomb]] moving past a point per second
 ## Equation
 $$1A=1\frac{C}{s}$$
