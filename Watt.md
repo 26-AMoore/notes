@@ -11,4 +11,4 @@ Watt = 1 [[Joule|J]]/s
 Kilo = $10^3$
 Mega = $10^6$
 Giga  = $10^9$
-Tera = $10^12$
+Tera = $10^{12}$

@@ -1,0 +1,3 @@
+#physics 
+# Energy from movement
+$$KE=\frac{1}{2}mv^2$$
