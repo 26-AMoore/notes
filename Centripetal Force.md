@@ -1,3 +1,4 @@
+#physics 
 # Concept
 ## Centripetal
 - Centripetal - Means center-seeking
@@ -14,14 +15,15 @@
 - Time per cycle
 
 ## Another way to think about velocity
-Acceleration
+[[Acceleration]]
 $$a_c=\frac{v^2}{r} $$
-Velocity
+[[Velocity]]
 $$v=\frac{2\pi r}{T}=2\pi rf$$
 Combo
 $$a_c=\frac{v^2}{r} =\frac{(\frac{2\pi r}{T})^2}{r} $$
 $$a_c=\frac{4\pi ^2 r}{T^2} = 4\pi^2rf^2$$
-T = period
+T = period [[Seconds]]
+f = frequency [[Hertz]]
 Newtons second law style "F=ma"
 $$\sum F_c = m4\pi ^2rf^2$$
 

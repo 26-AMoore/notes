@@ -1,3 +1,4 @@
+#physics 
 Microscopically, surfaces are not flat. Surfaces have tiny teensy-weensy teeny roughness and grit. When two surfaces are colliding (have forces applied into one another), their roughnesses interlock and cause a force.
 
 # Calculation
