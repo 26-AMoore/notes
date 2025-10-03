@@ -1,6 +1,11 @@
 
 #math 
 # A way to define where the holes are
+# A function $f(x)$ is continuous at x = a if
+- $f(a)$ must be defined
+- $\lim_{ x \to a } f(x)$ must exist
+- $\lim_{ x \to a }f(x)=f(a)$
+
 ## Street Math
 Can you draw the graph without lifting your pencil
 
