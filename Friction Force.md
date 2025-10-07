@@ -19,7 +19,7 @@ $$F_{fs}=\mu_s\cdot F_N$$
 This friction force is only applied when not moving; a.k.a. the friction force outweighs other applied forces, keeping it stationary
 
 ### Kinetic Friction
-Kinetic friction the the normal friction that occurs between two abjects in motion against reach other.
+Kinetic friction the the normal friction that occurs between two objects in motion against reach other.
 $$F_{fk}=\mu_k\cdot{F_N}$$
 
 ### Air Resistance
