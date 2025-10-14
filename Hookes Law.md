@@ -6,5 +6,7 @@ $F_{s}$ = spring force ([[Newtons |N]]), always opposite $x$
 $k$ = spring constant $\frac{N}{m}$, big number
 $x$ = displacement (m)
 
-#### Work
+#### [[Work]]
 $$W_{s}=-\frac{1}{2}kx^2$$
+#### [[Potential Energy]]
+$$PE_{S}=\frac{1}{2}kx^2$$
