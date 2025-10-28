@@ -1,4 +1,4 @@
-#math 
+#math #calc 
 # The derivative of $f$ at $x=a$ is the slope of the tangent line to $y=f(x)$ at point $(a, f(a))$ 
 
 Difference Quotient -  Slope of the [[Secant]] line
