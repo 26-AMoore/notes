@@ -11,3 +11,8 @@ because now its relative to r
 
 # Thankfully shapes pre-solved
 ![[Pasted image 20251028105034.png]]
+
+# Parallel Axis Theorem
+$$I + m*d^2$$
+d = distance from usual axis of rotation
+I = normal [[Inertia]] equation
