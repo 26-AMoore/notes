@@ -14,5 +14,5 @@ because now its relative to r
 
 # Parallel Axis Theorem
 $$I + m*d^2$$
-d = distance from usual axis of rotation
-I = normal [[Inertia]] equation
+d | h = distance from usual axis of rotation
+I = common [[Inertia]] equation
