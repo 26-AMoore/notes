@@ -10,8 +10,8 @@ r = radius (m)
 because now its relative to r
 
 # Thankfully shapes pre-solved
-![[Pasted image 20251028105034.png]]
-
+[[_resources/Rotational Inertia/50b46d042628e954d1d97b51bd9fd57e_MD5.jpg|Open: Pasted image 20251103105415.png]]
+![[_resources/Rotational Inertia/50b46d042628e954d1d97b51bd9fd57e_MD5.jpg]]
 # Parallel Axis Theorem
 $$I + m*d^2$$
 d | h = distance from usual axis of rotation
