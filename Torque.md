@@ -2,11 +2,12 @@
 # A twisting force
 Newtons second law
 $$\sum\tau=I\alpha$$
+I = [[Rotational Inertia]]
 Torque is the cross product of $f$ and $d$
 $$\tau=F*d$$
 $\tau$ = torque, Nm
 $F$ = force, N
-d = distance m
+d = distance m from the center of rotation
 
 
 $$\sum \tau =\tau_{F1}+\tau_{F2}+\tau_{F_{3}}+\ . . .$$
