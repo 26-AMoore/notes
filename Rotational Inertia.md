@@ -6,6 +6,9 @@ I = moment of inertia (kg m^2)
 m = mass (kg)
 r = radius (m)
 
+disk
+$$I=\frac{1}{2}mr^2$$
+
 ## The shape of an object is as important as the mass of an object
 because now its relative to r
 

@@ -1,3 +1,4 @@
+#physics #rotational 
 # [[Linear Momentum]] but angular
 $$L=I\omega$$
 I = [[Rotational Inertia]]
