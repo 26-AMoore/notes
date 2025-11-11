@@ -16,6 +16,6 @@ because now its relative to r
 [[_resources/Rotational Inertia/50b46d042628e954d1d97b51bd9fd57e_MD5.jpg|Open: Pasted image 20251103105415.png]]
 ![[_resources/Rotational Inertia/50b46d042628e954d1d97b51bd9fd57e_MD5.jpg]]
 # Parallel Axis Theorem
-$$I + m*d^2$$
+$$I=I + m*d^2$$
 d | h = distance from usual axis of rotation
 I = common [[Inertia]] equation
