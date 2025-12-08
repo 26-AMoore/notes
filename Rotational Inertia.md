@@ -1,4 +1,4 @@
-	#physics #rotational 
+#physics #rotational 
 # An objects resistance to change in rotational motion
 
 $$I=\sum(m_{i}r_{i}^2)$$
