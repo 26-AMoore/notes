@@ -13,3 +13,12 @@ $$\lim_{ h \to 0 } \frac{{f(a+h) - f(a)}}{h}$$
 #### Derivative notation is
 $$f'(x)\ or\ \frac{dy}{dx}$$
 
+
+## Derivatives of common inverse trig equations
+
+| Function | Derivative                      |
+| -------- | ------------------------------- |
+| sin      | $\frac{1}{\sqrt{ 1-x^2 }}$      |
+| tan      | $\frac{1}{x^2+1}$               |
+| sec      | $\frac{1}{\|x\|\sqrt{ x^2-1 }}$ |
+| cos      | $-\frac{1}{\sqrt{ 1-x^2 }}$     |
