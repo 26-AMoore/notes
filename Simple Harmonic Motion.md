@@ -1,6 +1,6 @@
 #shm #physics 
 # Springs and stuff
-# $f(x)=kx$
+## $f(x)=kx$
 k is spring constant, which is based on the spring
 
 ## Three distinct points in the movement
