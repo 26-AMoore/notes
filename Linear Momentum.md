@@ -22,14 +22,14 @@ two types of collisions
 non conservative
 # Impulse
 Change in momentum
-Vector quantity (same as veloctiy) $J_x\ \&\ J_y$  
+Vector quantity (same as velocity) $J_x\ \&\ J_y$  
 $$J = F\Delta t$$
 also
 $$J=\Delta p = m(v_f-v_i)$$
 J = impulse (Ns)
 f = force
 t = time?
-m = mass kg !sys mass
+m = mass kg does not equal system mass
 
 if
 - elastic

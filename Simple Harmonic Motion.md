@@ -54,9 +54,10 @@ k is spring constant
 m is mass
 
 ### Energy
+Generally used for max amplitude
 $$PE(t)=\frac{1}{2}kx^2=\frac{1}{2}kx_{m}^2\cos^2(\omega t+\phi)$$
 
-$$KE(t)=\frac{1}{2}kx_{m}^2\sin^2(\omega t+\phi)$$
+$$KE(t)=\frac{1}{2}kx_{m}^2\sin^2(\omega t+\phi) = \frac{1}{2}mv^2$$
 
 $$E=\frac{1}{2}kx_{m}^2$$
 
@@ -74,6 +75,9 @@ $$T=2\pi \sqrt{ \frac{I}{mgh} }$$
 I is [[Rotational Inertia]] for the system
 m is **total** mass of the system
 h is distance to the [[Center Of Mass]] of the system (distance from pivot to COM)
+
+For reasonable distances $s$ let
+$$s \approx x \approx \theta R$$
 # Special cases
 ### Angular [[Hookes Law Spring]]
 Imagine twisting a bar
