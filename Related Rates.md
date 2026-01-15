@@ -1,6 +1,9 @@
 #math #calc 
 # A problem with a relationship between two variables means there is a relationship between two [[Derivative]]s
 
+## Basically
+if $$y=\frac{1}{2}x$$
+then $$\frac{dy}{dt}=\frac{1}{2} \frac{dx}{dt}$$
 ### Example with a sphere
 Getting increase of radius from an increasing volume
 Given $\frac{dV}{dt}=5$, What is $\frac{dr}{dt}$ **when $r = 2$**

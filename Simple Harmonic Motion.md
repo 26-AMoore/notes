@@ -39,10 +39,10 @@ $$\omega=\frac{2\pi}{T}=2\pi f$$
 T = period
 f = frequency
 
-#### Max velocity (absolute- pay attention to direction)
+#### Velocity (absolute- pay attention to direction)
 $$v(t)=-\omega x_{m} \sin(\omega t+\phi)$$
 if $\phi = 0$ then $v_{max} = \omega x_{max}$
-#### Max acceleration (absolute- pay attention to direction)
+#### Acceleration (absolute- pay attention to direction)
 $$a(t)=-\omega^2x(t)$$
 x(t) is position function
 
