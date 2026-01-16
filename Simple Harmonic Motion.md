@@ -78,6 +78,9 @@ h is distance to the [[Center Of Mass]] of the system (distance from pivot to CO
 
 For reasonable distances $s$ let
 $$s \approx x \approx \theta R$$
+s is arclength
+R is from pivot point
+
 # Special cases
 ### Angular [[Hookes Law Spring]]
 Imagine twisting a bar

@@ -3,7 +3,7 @@
 Newtons second law
 $$\sum\tau=I\alpha$$
 I = [[Rotational Inertia]]
-Torque is the cross product of $f$ and $d$
+Torque is the [[Cross Product]] of $f$ and $d$
 $$\tau=F*d$$
 $\tau$ = torque, Nm
 $F$ = force, N
