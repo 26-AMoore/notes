@@ -1,4 +1,5 @@
 #electronics #physics 
+
 # A [[Circuits]] that has multiple paths for [[Current]] to flow through
 ### The [[Current]] gets divided across all possible paths, no path will experience the total [[Current]]
 
