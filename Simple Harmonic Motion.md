@@ -62,7 +62,6 @@ $$KE(t)=\frac{1}{2}kx_{m}^2\sin^2(\omega t+\phi) = \frac{1}{2}mv^2$$
 $$E=\frac{1}{2}kx_{m}^2$$
 
 ### All variables follow this pattern
-[[_resources/Simple Harmonic Motion/ae03eb96148241751c2db2564e2f2d89_MD5.jpg|Open: Pasted image 20260107121613.png]]
 ![[_resources/Simple Harmonic Motion/ae03eb96148241751c2db2564e2f2d89_MD5.jpg]]
 # For Pendulum
 ### Simple pendulum (rod is massless)
