@@ -1,3 +1,4 @@
+#math #calc 
 Sum diff
 $$\int_{a}^b[f(x)+g(x)]dx=\int_{a}^b[f(x)]dx+\int_{a}^b[g(x)]dx$$
 Zero
