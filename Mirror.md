@@ -16,5 +16,5 @@ When any [[Rays|Ray]] parallel to the PA hits a concave mirror it will pass thro
 
 
 ![[_resources/Mirror/e6fbd0187506d1b632e5a41738157471_MD5.jpg|168x297]]
-![[_resources/Mirror/799106c565db9ba3032f31d49a33a475_MD5.jpg|703x298]]
+![[_resources/Mirror/799106c565db9ba3032f31d49a33a475_MD5.jpg|640|521x221]]
 ![[_resources/Mirror/eca5958b09ae83192a8cc0b411b44053_MD5.jpg|523x265]]
