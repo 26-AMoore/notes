@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8a7dbeeb14dac98",
+        "id": "7801d249d5322248",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef37d2163f9f796",
+            "id": "a62c33b5840d5651",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Excalidraw/ma1022 problem set 2.md"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "excalidraw-icon",
+              "title": "ma1022 problem set 2"
             }
           }
         ]
@@ -201,8 +199,10 @@
       "cmdr:Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document": false
     }
   },
-  "active": "8ef37d2163f9f796",
+  "active": "a62c33b5840d5651",
   "lastOpenFiles": [
+    "Excalidraw/ma1022 problem set 2.md",
+    "Excalidraw/Drawing 2026-08-31 15.57.15.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Untitled 2026-08-31 15.23.08.excalidraw.md",
     "Untitled.md",
@@ -228,8 +228,6 @@
     "Angular Constant Acceleration.md",
     "Constant Acceleration Equations.md",
     "Substitution.md",
-    "Test.md",
-    "Excalidraw/Test 2026-08-28 12.34.54.excalidraw.md",
     "_resources/Reflection/68ac933b6d487221a25db6cb2a70d307_MD5.jpg",
     "_resources/Reflection",
     "_resources/Mirror/eca5958b09ae83192a8cc0b411b44053_MD5.jpg",
