@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9134af71b835e2d9",
+        "id": "0e6622f42a20d1a2",
         "type": "tabs",
         "children": [
           {
-            "id": "6b68ae0aa793e50e",
+            "id": "104abd3319c098c6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -183,28 +183,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "cmdr:Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document": false
     }
   },
-  "active": "6b68ae0aa793e50e",
+  "active": "104abd3319c098c6",
   "lastOpenFiles": [
-    "Derivative.md",
-    "Constat Multiple Rule.md",
-    "README.md",
-    "Java.md",
-    "Electric Potential.md",
-    "Angular Displacement.md",
-    "Angular Velocity.md",
-    "Angular Constant Acceleration.md",
-    "Constant Acceleration Equations.md",
-    "Substitution.md",
+    "Approximating areas.md",
+    "Untitled 1.md",
+    "Excalidraw/u sub practice ma1022.md",
+    "Excalidraw/Keplers Laws 2026-08-28 12.55.38.excalidraw.md",
+    "Excalidraw",
+    "_resources/Untitled 1",
+    "Keplers Laws.md",
     "Test.md",
     "Excalidraw/Test 2026-08-28 12.34.54.excalidraw.md",
     "Excalidraw/Test 2026-08-28 12.30.34.excalidraw.md",
     "Excalidraw/Drawing 2026-08-28 12.26.34.excalidraw.md",
     "Excalidraw/Drawing 2026-07-23 13.46.58.excalidraw.md",
-    "Excalidraw",
     "Untitled.md",
+    "Substitution.md",
     "MA1022 Quiz two.md",
     "_resources/Reflection/68ac933b6d487221a25db6cb2a70d307_MD5.jpg",
     "_resources/Reflection",
@@ -231,6 +229,10 @@
     "Snells Law.md",
     "Scalar.md",
     "Reimann Sum.md",
-    "Reflection.md"
+    "Reflection.md",
+    "Rays.md",
+    "Partition.md",
+    "Normal.md",
+    "Mirror.md"
   ]
 }
