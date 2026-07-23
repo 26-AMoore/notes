@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72f9e41219eac49d",
+        "id": "d61221aa7375ca9a",
         "type": "tabs",
         "children": [
           {
-            "id": "54aba471a9de9d22",
+            "id": "396c2e58abeeb677",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "43f6b6c304b2762a",
@@ -159,13 +160,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "2394741cb3d65a2a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +197,15 @@
       "cmdr:Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document": false
     }
   },
-  "active": "54aba471a9de9d22",
+  "active": "396c2e58abeeb677",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-07-23 14.34.03.excalidraw.md",
+    "Excalidraw/Untitled 2 2026-07-23 14.30.03.excalidraw.md",
+    "Untitled 2.md",
     "Excalidraw/u sub practice ma1022.md",
     "Excalidraw/Keplers Laws 2026-08-28 12.55.38.excalidraw.md",
+    "Simple Harmonic Motion.md",
+    "Excalidraw/Drawing 2026-07-23 14.04.46.excalidraw.md",
     "Excalidraw",
     "U Substitution.md",
     "Definite Integral.md",
@@ -210,7 +226,6 @@
     "Excalidraw/Drawing 2026-08-28 12.26.34.excalidraw.md",
     "Excalidraw/Drawing 2026-07-23 13.46.58.excalidraw.md",
     "Untitled.md",
-    "MA1022 Quiz two.md",
     "_resources/Reflection/68ac933b6d487221a25db6cb2a70d307_MD5.jpg",
     "_resources/Reflection",
     "_resources/Mirror/eca5958b09ae83192a8cc0b411b44053_MD5.jpg",
@@ -227,9 +242,6 @@
     "_resources/Image/9a89b14d667e71607cce2abcc46f0e6f_MD5.jpg",
     "_resources/Image",
     "_resources/Colors",
-    "Velocity.md",
-    "Vector.md",
-    "Untitled.circuit-sketcher",
-    "Transparent.md"
+    "Untitled.circuit-sketcher"
   ]
 }
