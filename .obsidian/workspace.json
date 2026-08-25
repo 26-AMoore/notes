@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "6704bb8241246344",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b0cf2ff5ff51f21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fbbe61a86341773",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22cef70d413030f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fda702830831aba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00dfdeb9ea9a8b92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cb4872244c2dae3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c0e8966015ecfa4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4eae08e1e9f81b58",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e98b23386bdb9a70",
+    "type": "split",
+    "children": [
+      {
+        "id": "354b53a9926341ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2691d7e1153ecbb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Combination Circuit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Combination Circuit"
+            }
+          },
+          {
+            "id": "dc0d2f49bdd36308",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "43261993f76c7ad0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kotlin.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kotlin"
+            }
+          },
+          {
+            "id": "aa0f8de84bd46192",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "e9f1577866579687",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Combination Circuit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Combination Circuit"
+            }
+          },
+          {
+            "id": "2b85f5c9a5ff2c23",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "circuit-sketcher:Create new Circuit Sketcher file": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "3fbbe61a86341773",
+  "lastOpenFiles": [
+    "quix.md",
+    "Related Rates.md",
+    "U Substitution.md",
+    "Chain Rule.md",
+    "MA1022 Quiz one.md",
+    "Product Rule.md",
+    "Sum Rule.md",
+    "Anti Derivatives.md",
+    "Fundamental Theorem of Calculus.md",
+    "Mean Value Theorem.md",
+    "Reimann Sum.md",
+    "Constant Acceleration Equations.md",
+    "Velocity.md",
+    "Untitled 2.md",
+    "Definite Integral.md",
+    "Approximating areas.md",
+    "Partition.md",
+    "Excalidraw/Drawing 2026-08-21 10.20.47.excalidraw.md",
+    "Scalar.md",
+    "Vector.md",
+    "Friction.md",
+    "Electric Potential Energy.md",
+    "Kirchhoff's Voltage Law.md",
+    "Waves.md",
+    "Watt.md",
+    "Untitled 1.md",
+    "_resources/Lens/1d42c060e61df609f48d2fbd63520395_MD5.jpg",
+    "The Blues Brothers - Trailer [asM2-YAMWxg].mp4",
+    "The Blues Brothers - Trailer [asM2-YAMWxg].temp.mp4",
+    "The Blues Brothers - Trailer [asM2-YAMWxg].f140.m4a",
+    "The Blues Brothers - Trailer [asM2-YAMWxg].f140.m4a.part",
+    "The Blues Brothers - Trailer [asM2-YAMWxg].f135.mp4",
+    "The Blues Brothers - Trailer [asM2-YAMWxg].f135.mp4.part",
+    "Untitled.circuit-sketcher",
+    "_resources/Lens/ae804e9f75aba48605c77b88f4447ffb_MD5.jpg",
+    "image.png",
+    "_resources/Lens/31f7ea04607931a8741468eb16c18025_MD5.jpg",
+    "_resources/Lens/9b73ebdcad20329265a04282950fd0c5_MD5.jpg",
+    "_resources/Lens",
+    "_resources/Mirror/e6fbd0187506d1b632e5a41738157471_MD5.jpg",
+    "Pasted image 20260220104202.png",
+    "_resources/Mirror/eca5958b09ae83192a8cc0b411b44053_MD5.jpg",
+    "Pasted image 20260220102529.png",
+    "_resources/Mirror/799106c565db9ba3032f31d49a33a475_MD5.jpg",
+    "_resources/Mirror",
+    "_resources/Image",
+    "Untitled.canvas"
+  ]
+}
