@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b0cf2ff5ff51f21",
+        "id": "afb70ab23890ce97",
         "type": "tabs",
         "children": [
           {
-            "id": "3fbbe61a86341773",
+            "id": "f390da7657c7e164",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -206,8 +206,9 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "3fbbe61a86341773",
+  "active": "f390da7657c7e164",
   "lastOpenFiles": [
+    "Untitled.md",
     "quix.md",
     "Related Rates.md",
     "U Substitution.md",
@@ -233,7 +234,6 @@
     "Kirchhoff's Voltage Law.md",
     "Waves.md",
     "Watt.md",
-    "Untitled 1.md",
     "_resources/Lens/1d42c060e61df609f48d2fbd63520395_MD5.jpg",
     "The Blues Brothers - Trailer [asM2-YAMWxg].mp4",
     "The Blues Brothers - Trailer [asM2-YAMWxg].temp.mp4",
