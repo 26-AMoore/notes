@@ -1,4 +1,4 @@
-# This is the entirety of my notes throughout all of my high school time at the Derryfield school
+# This is the entirety of my notes throughout all of my high school time at the Derryfield school (Also my college ones)
 This is by no means an exhaustive list, but it is all that I took notes on
 Thank you to asmi57 for some of their notes and for getting me to use obsidian to log all of them in the first place
 They should all just be browse-able through the github website if you want, but some LaTeX might not render correctly, along with images and links

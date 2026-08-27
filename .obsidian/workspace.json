@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7cb2ead6514921cf",
+        "id": "ee36690eb96fd12c",
         "type": "tabs",
         "children": [
           {
-            "id": "82d557fb080188a5",
+            "id": "d82512f7a37b259d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -206,12 +206,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "82d557fb080188a5",
+  "active": "d82512f7a37b259d",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2026-08-21 10.20.47.excalidraw.md",
+    "Angular Velocity.md",
+    "Centripetal Force.md",
     "Friction.md",
     "Fundamental Theorem of Calculus.md",
     "MA1022 Quiz two.md",
-    "Untitled.md",
     "quix.md",
     "Related Rates.md",
     "U Substitution.md",
@@ -228,12 +233,7 @@
     "Definite Integral.md",
     "Approximating areas.md",
     "Partition.md",
-    "Excalidraw/Drawing 2026-08-21 10.20.47.excalidraw.md",
     "Scalar.md",
-    "Vector.md",
-    "Electric Potential Energy.md",
-    "Kirchhoff's Voltage Law.md",
-    "Waves.md",
     "_resources/Lens/1d42c060e61df609f48d2fbd63520395_MD5.jpg",
     "The Blues Brothers - Trailer [asM2-YAMWxg].mp4",
     "The Blues Brothers - Trailer [asM2-YAMWxg].temp.mp4",
