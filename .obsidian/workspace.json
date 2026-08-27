@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "afb70ab23890ce97",
+        "id": "df23e533496f59cf",
         "type": "tabs",
         "children": [
           {
-            "id": "f390da7657c7e164",
+            "id": "b6258ec0329cc557",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -206,7 +206,7 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "f390da7657c7e164",
+  "active": "b6258ec0329cc557",
   "lastOpenFiles": [
     "Untitled.md",
     "quix.md",
