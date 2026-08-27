@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df23e533496f59cf",
+        "id": "7cb2ead6514921cf",
         "type": "tabs",
         "children": [
           {
-            "id": "b6258ec0329cc557",
+            "id": "82d557fb080188a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -206,8 +206,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "b6258ec0329cc557",
+  "active": "82d557fb080188a5",
   "lastOpenFiles": [
+    "Friction.md",
+    "Fundamental Theorem of Calculus.md",
+    "MA1022 Quiz two.md",
     "Untitled.md",
     "quix.md",
     "Related Rates.md",
@@ -217,7 +220,6 @@
     "Product Rule.md",
     "Sum Rule.md",
     "Anti Derivatives.md",
-    "Fundamental Theorem of Calculus.md",
     "Mean Value Theorem.md",
     "Reimann Sum.md",
     "Constant Acceleration Equations.md",
@@ -229,11 +231,9 @@
     "Excalidraw/Drawing 2026-08-21 10.20.47.excalidraw.md",
     "Scalar.md",
     "Vector.md",
-    "Friction.md",
     "Electric Potential Energy.md",
     "Kirchhoff's Voltage Law.md",
     "Waves.md",
-    "Watt.md",
     "_resources/Lens/1d42c060e61df609f48d2fbd63520395_MD5.jpg",
     "The Blues Brothers - Trailer [asM2-YAMWxg].mp4",
     "The Blues Brothers - Trailer [asM2-YAMWxg].temp.mp4",
