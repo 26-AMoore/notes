@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f8ed40ddad7b37b",
+        "id": "5df1edfa1076d8ff",
         "type": "tabs",
         "children": [
           {
-            "id": "31fce6ac0f1ccd03",
+            "id": "67a4c0abba7b846e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -206,8 +206,12 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "31fce6ac0f1ccd03",
+  "active": "67a4c0abba7b846e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-08-28 10.35.14.excalidraw.md",
+    "U Substitution.md",
+    "Untitled.md",
+    "Substitution.md",
     "Definite Integral.md",
     "Fundamental Theorem of Calculus.md",
     "Chain Rule.md",
@@ -215,7 +219,6 @@
     "Integral Rules.md",
     "Untitled.base",
     "Untitled 1.md",
-    "Untitled.md",
     "Excalidraw/Drawing 2026-08-21 10.20.47.excalidraw.md",
     "Angular Velocity.md",
     "Centripetal Force.md",
@@ -223,7 +226,6 @@
     "MA1022 Quiz two.md",
     "quix.md",
     "Related Rates.md",
-    "U Substitution.md",
     "MA1022 Quiz one.md",
     "Product Rule.md",
     "Sum Rule.md",
@@ -233,8 +235,6 @@
     "Constant Acceleration Equations.md",
     "Velocity.md",
     "Untitled 2.md",
-    "Approximating areas.md",
-    "Partition.md",
     "_resources/Lens/1d42c060e61df609f48d2fbd63520395_MD5.jpg",
     "The Blues Brothers - Trailer [asM2-YAMWxg].mp4",
     "The Blues Brothers - Trailer [asM2-YAMWxg].temp.mp4",

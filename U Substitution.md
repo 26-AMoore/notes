@@ -1,4 +1,7 @@
 #calc  #math 
+# Let  $u = g(x)$ and let $F(x)$ be an antiderivative of $f(x)$ then
+$$\int f(g(x))g'(x)dx=\int f(u)du$$
+$$\int f(u)=F(u)+C = F(g(x))+C$$
 # Example
 $$\int x\sin(x^2)dx$$
 $$u=x^2$$$$du=2x\ dx$$
