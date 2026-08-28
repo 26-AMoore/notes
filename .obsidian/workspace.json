@@ -11,10 +11,24 @@
             "id": "d82512f7a37b259d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fundamental Theorem of Calculus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fundamental Theorem of Calculus"
             }
           }
         ]
@@ -208,6 +222,10 @@
   },
   "active": "d82512f7a37b259d",
   "lastOpenFiles": [
+    "Fundamental rule of Magnetism.md",
+    "Integral Rules.md",
+    "Definite Integral.md",
+    "Fundamental Theorem of Calculus.md",
     "Untitled.base",
     "Untitled 1.md",
     "Untitled.md",
@@ -215,7 +233,6 @@
     "Angular Velocity.md",
     "Centripetal Force.md",
     "Friction.md",
-    "Fundamental Theorem of Calculus.md",
     "MA1022 Quiz two.md",
     "quix.md",
     "Related Rates.md",
@@ -230,10 +247,8 @@
     "Constant Acceleration Equations.md",
     "Velocity.md",
     "Untitled 2.md",
-    "Definite Integral.md",
     "Approximating areas.md",
     "Partition.md",
-    "Scalar.md",
     "_resources/Lens/1d42c060e61df609f48d2fbd63520395_MD5.jpg",
     "The Blues Brothers - Trailer [asM2-YAMWxg].mp4",
     "The Blues Brothers - Trailer [asM2-YAMWxg].temp.mp4",
@@ -253,7 +268,6 @@
     "Pasted image 20260220102529.png",
     "_resources/Mirror/799106c565db9ba3032f31d49a33a475_MD5.jpg",
     "_resources/Mirror",
-    "_resources/Image",
     "Untitled.canvas"
   ]
 }
