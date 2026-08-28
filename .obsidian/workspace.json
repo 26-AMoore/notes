@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6704bb8241246344",
+    "id": "3a46f1ce7f21846e",
     "type": "split",
     "children": [
       {
-        "id": "5df1edfa1076d8ff",
+        "id": "240c82e27e104362",
         "type": "tabs",
         "children": [
           {
-            "id": "67a4c0abba7b846e",
+            "id": "9d8a65ed7a02300b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "22cef70d413030f8",
+    "id": "2a71560783d6e38f",
     "type": "split",
     "children": [
       {
-        "id": "0fda702830831aba",
+        "id": "1fafebd1fe8c7341",
         "type": "tabs",
         "children": [
           {
-            "id": "00dfdeb9ea9a8b92",
+            "id": "a7d63cb564ac94f6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "cb4872244c2dae3c",
+            "id": "85849e292393c3ca",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "c0e8966015ecfa4d",
+            "id": "3d31d42a0b88b869",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,48 +71,54 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "4eae08e1e9f81b58",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "e98b23386bdb9a70",
+    "id": "43f6b6c304b2762a",
     "type": "split",
     "children": [
       {
-        "id": "354b53a9926341ed",
+        "id": "9ed7596f1ad1f49d",
         "type": "tabs",
         "children": [
           {
-            "id": "2691d7e1153ecbb2",
+            "id": "b8e7cd13a0457679",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "98e9433e3b748d7b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combination Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Combination Circuit"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "dc0d2f49bdd36308",
+            "id": "619c2f0fc2721b6c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -127,133 +133,104 @@
             }
           },
           {
-            "id": "43261993f76c7ad0",
+            "id": "a4d11a49a0fe3af9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "e2e3230ced01b9b0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kotlin"
-            }
-          },
-          {
-            "id": "aa0f8de84bd46192",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "e9f1577866579687",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Combination Circuit.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Combination Circuit"
-            }
-          },
-          {
-            "id": "2b85f5c9a5ff2c23",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "markdown-importer:Open format converter": true,
+      "workspaces:Manage workspace layouts": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "circuit-sketcher:Create new Circuit Sketcher file": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "circuit-sketcher:Create new Circuit Sketcher file": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "3d-graph:3D Graph": false
+      "bases:Create new base": false,
+      "cmdr:Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document": false
     }
   },
-  "active": "67a4c0abba7b846e",
+  "active": "9d8a65ed7a02300b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-08-28 10.35.14.excalidraw.md",
-    "U Substitution.md",
+    "Test.md",
+    "Excalidraw/Test 2026-08-28 12.34.54.excalidraw.md",
+    "Excalidraw/Test 2026-08-28 12.30.34.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-28 12.26.34.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-23 13.46.58.excalidraw.md",
+    "Excalidraw",
     "Untitled.md",
     "Substitution.md",
-    "Definite Integral.md",
-    "Fundamental Theorem of Calculus.md",
-    "Chain Rule.md",
-    "Fundamental rule of Magnetism.md",
-    "Integral Rules.md",
-    "Untitled.base",
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2026-08-21 10.20.47.excalidraw.md",
-    "Angular Velocity.md",
-    "Centripetal Force.md",
-    "Friction.md",
     "MA1022 Quiz two.md",
-    "quix.md",
-    "Related Rates.md",
-    "MA1022 Quiz one.md",
-    "Product Rule.md",
-    "Sum Rule.md",
-    "Anti Derivatives.md",
-    "Mean Value Theorem.md",
-    "Reimann Sum.md",
-    "Constant Acceleration Equations.md",
-    "Velocity.md",
-    "Untitled 2.md",
-    "_resources/Lens/1d42c060e61df609f48d2fbd63520395_MD5.jpg",
-    "The Blues Brothers - Trailer [asM2-YAMWxg].mp4",
-    "The Blues Brothers - Trailer [asM2-YAMWxg].temp.mp4",
-    "The Blues Brothers - Trailer [asM2-YAMWxg].f140.m4a",
-    "The Blues Brothers - Trailer [asM2-YAMWxg].f140.m4a.part",
-    "The Blues Brothers - Trailer [asM2-YAMWxg].f135.mp4",
-    "The Blues Brothers - Trailer [asM2-YAMWxg].f135.mp4.part",
-    "Untitled.circuit-sketcher",
-    "_resources/Lens/ae804e9f75aba48605c77b88f4447ffb_MD5.jpg",
-    "image.png",
-    "_resources/Lens/31f7ea04607931a8741468eb16c18025_MD5.jpg",
-    "_resources/Lens/9b73ebdcad20329265a04282950fd0c5_MD5.jpg",
-    "_resources/Lens",
-    "_resources/Mirror/e6fbd0187506d1b632e5a41738157471_MD5.jpg",
-    "Pasted image 20260220104202.png",
+    "_resources/Reflection/68ac933b6d487221a25db6cb2a70d307_MD5.jpg",
+    "_resources/Reflection",
     "_resources/Mirror/eca5958b09ae83192a8cc0b411b44053_MD5.jpg",
-    "Pasted image 20260220102529.png",
+    "_resources/Mirror/e6fbd0187506d1b632e5a41738157471_MD5.jpg",
     "_resources/Mirror/799106c565db9ba3032f31d49a33a475_MD5.jpg",
     "_resources/Mirror",
-    "Untitled.canvas"
+    "_resources/Light/039169967633ba8be44d0592dcfd95c9_MD5.jpg",
+    "_resources/Light",
+    "_resources/Lens/ae804e9f75aba48605c77b88f4447ffb_MD5.jpg",
+    "_resources/Lens/9b73ebdcad20329265a04282950fd0c5_MD5.jpg",
+    "_resources/Lens/31f7ea04607931a8741468eb16c18025_MD5.jpg",
+    "_resources/Lens/1d42c060e61df609f48d2fbd63520395_MD5.jpg",
+    "_resources/Lens",
+    "_resources/Image/9a89b14d667e71607cce2abcc46f0e6f_MD5.jpg",
+    "_resources/Image",
+    "_resources/Colors",
+    "Velocity.md",
+    "Vector.md",
+    "Untitled.circuit-sketcher",
+    "U Substitution.md",
+    "Transparent.md",
+    "Translucent.md",
+    "Snells Law.md",
+    "Scalar.md",
+    "Reimann Sum.md",
+    "Reflection.md",
+    "Rays.md",
+    "Partition.md",
+    "Normal.md",
+    "Mirror.md",
+    "Mean Value Theorem.md",
+    "MA1022 Quiz one.md",
+    "Light.md",
+    "Lens.md",
+    "Integral Rules.md"
   ]
 }
