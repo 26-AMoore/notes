@@ -14,3 +14,7 @@ $$\int _{a}^cf(x)=\int_{a}^b f(x)+\int_{b}^cf(x)$$
 # Computing average value
 $f(x)$ for $[a,b]$
 Take a buncha descreet samples then average them all
+
+# For $f(x)$ on $[a..b]$ the average is
+$$f_{mean}=\frac{1}{b-a}\int_{a}^b f(x)dx$$
+

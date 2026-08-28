@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamental Theorem of Calculus.md",
+                "file": "Definite Integral.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fundamental Theorem of Calculus"
+              "title": "Definite Integral"
             }
           }
         ]
@@ -222,10 +222,11 @@
   },
   "active": "d82512f7a37b259d",
   "lastOpenFiles": [
+    "Fundamental Theorem of Calculus.md",
+    "Chain Rule.md",
     "Fundamental rule of Magnetism.md",
     "Integral Rules.md",
     "Definite Integral.md",
-    "Fundamental Theorem of Calculus.md",
     "Untitled.base",
     "Untitled 1.md",
     "Untitled.md",
@@ -237,7 +238,6 @@
     "quix.md",
     "Related Rates.md",
     "U Substitution.md",
-    "Chain Rule.md",
     "MA1022 Quiz one.md",
     "Product Rule.md",
     "Sum Rule.md",
