@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "43f6b6c304b2762a",
@@ -182,12 +183,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "cmdr:Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document": false
+      "bases:Create new base": false
     }
   },
   "active": "9d8a65ed7a02300b",
   "lastOpenFiles": [
+    "Constant Acceleration Equations.md",
+    "Substitution.md",
     "Test.md",
     "Excalidraw/Test 2026-08-28 12.34.54.excalidraw.md",
     "Excalidraw/Test 2026-08-28 12.30.34.excalidraw.md",
@@ -195,7 +197,6 @@
     "Excalidraw/Drawing 2026-07-23 13.46.58.excalidraw.md",
     "Excalidraw",
     "Untitled.md",
-    "Substitution.md",
     "MA1022 Quiz two.md",
     "_resources/Reflection/68ac933b6d487221a25db6cb2a70d307_MD5.jpg",
     "_resources/Reflection",
@@ -230,7 +231,6 @@
     "Mean Value Theorem.md",
     "MA1022 Quiz one.md",
     "Light.md",
-    "Lens.md",
-    "Integral Rules.md"
+    "Lens.md"
   ]
 }
