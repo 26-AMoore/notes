@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10448af5d402d5d7",
+        "id": "547697daf0170a0d",
         "type": "tabs",
         "children": [
           {
-            "id": "504b4f0580617288",
+            "id": "e2f4fb7565a1d5af",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +197,13 @@
       "cmdr:Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document": false
     }
   },
-  "active": "504b4f0580617288",
+  "active": "e2f4fb7565a1d5af",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 2.md",
+    "Excalidraw/u sub practice ma1022.md",
     "Newtons Second Law.md",
     "Newtons.md",
-    "Excalidraw/u sub practice ma1022.md",
     "Excalidraw/Keplers Laws 2026-08-28 12.55.38.excalidraw.md",
     "Excalidraw",
     "U Substitution.md",
@@ -223,7 +224,6 @@
     "Excalidraw/Test 2026-08-28 12.30.34.excalidraw.md",
     "Excalidraw/Drawing 2026-08-28 12.26.34.excalidraw.md",
     "Excalidraw/Drawing 2026-07-23 13.46.58.excalidraw.md",
-    "Untitled.md",
     "MA1022 Quiz two.md",
     "_resources/Reflection/68ac933b6d487221a25db6cb2a70d307_MD5.jpg",
     "_resources/Reflection",
@@ -242,7 +242,6 @@
     "_resources/Image",
     "_resources/Colors",
     "Velocity.md",
-    "Vector.md",
     "Untitled.circuit-sketcher"
   ]
 }
