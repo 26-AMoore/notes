@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "79ca07fb0fdcae55",
+        "id": "10448af5d402d5d7",
         "type": "tabs",
         "children": [
           {
-            "id": "32589fb7eac7314a",
+            "id": "504b4f0580617288",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +198,7 @@
       "cmdr:Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document": false
     }
   },
-  "active": "32589fb7eac7314a",
+  "active": "504b4f0580617288",
   "lastOpenFiles": [
     "Newtons Second Law.md",
     "Newtons.md",
