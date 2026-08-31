@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d61221aa7375ca9a",
+        "id": "c8a7dbeeb14dac98",
         "type": "tabs",
         "children": [
           {
-            "id": "396c2e58abeeb677",
+            "id": "8ef37d2163f9f796",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -186,9 +190,9 @@
       "circuit-sketcher:Create new Circuit Sketcher file": true,
       "obsidian-excalidraw-plugin:New drawing": false,
       "3d-graph:3D Graph": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
@@ -197,8 +201,12 @@
       "cmdr:Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document": false
     }
   },
-  "active": "396c2e58abeeb677",
+  "active": "8ef37d2163f9f796",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Untitled 2026-08-31 15.23.08.excalidraw.md",
+    "Untitled.md",
+    "Newtons Second Law.md",
     "Excalidraw/Drawing 2026-07-23 14.34.03.excalidraw.md",
     "Excalidraw/Untitled 2 2026-07-23 14.30.03.excalidraw.md",
     "Untitled 2.md",
@@ -222,10 +230,6 @@
     "Substitution.md",
     "Test.md",
     "Excalidraw/Test 2026-08-28 12.34.54.excalidraw.md",
-    "Excalidraw/Test 2026-08-28 12.30.34.excalidraw.md",
-    "Excalidraw/Drawing 2026-08-28 12.26.34.excalidraw.md",
-    "Excalidraw/Drawing 2026-07-23 13.46.58.excalidraw.md",
-    "Untitled.md",
     "_resources/Reflection/68ac933b6d487221a25db6cb2a70d307_MD5.jpg",
     "_resources/Reflection",
     "_resources/Mirror/eca5958b09ae83192a8cc0b411b44053_MD5.jpg",
