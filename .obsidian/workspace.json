@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9134af71b835e2d9",
+        "id": "9c39fe3c88a96d05",
         "type": "tabs",
         "children": [
           {
-            "id": "6b68ae0aa793e50e",
+            "id": "79f310fdd71dc53d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -186,7 +186,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "6b68ae0aa793e50e",
+  "active": "79f310fdd71dc53d",
   "lastOpenFiles": [
     "Derivative.md",
     "Constat Multiple Rule.md",
