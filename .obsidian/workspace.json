@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c39fe3c88a96d05",
+        "id": "34252d222928c6bd",
         "type": "tabs",
         "children": [
           {
-            "id": "79f310fdd71dc53d",
+            "id": "0975acc1ce06042e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,8 +186,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "79f310fdd71dc53d",
+  "active": "0975acc1ce06042e",
   "lastOpenFiles": [
+    "U Substitution.md",
+    "Definite Integral.md",
+    "Untitled 1.md",
     "Derivative.md",
     "Constat Multiple Rule.md",
     "README.md",
@@ -225,12 +228,9 @@
     "Velocity.md",
     "Vector.md",
     "Untitled.circuit-sketcher",
-    "U Substitution.md",
     "Transparent.md",
     "Translucent.md",
     "Snells Law.md",
-    "Scalar.md",
-    "Reimann Sum.md",
-    "Reflection.md"
+    "Scalar.md"
   ]
 }
