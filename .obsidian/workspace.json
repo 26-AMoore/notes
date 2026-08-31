@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34252d222928c6bd",
+        "id": "72f9e41219eac49d",
         "type": "tabs",
         "children": [
           {
-            "id": "0975acc1ce06042e",
+            "id": "54aba471a9de9d22",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "43f6b6c304b2762a",
@@ -177,16 +176,17 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "3d-graph:3D Graph": false,
       "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": true,
+      "cmdr:Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document": false
     }
   },
-  "active": "0975acc1ce06042e",
+  "active": "54aba471a9de9d22",
   "lastOpenFiles": [
     "Excalidraw/u sub practice ma1022.md",
     "Excalidraw/Keplers Laws 2026-08-28 12.55.38.excalidraw.md",
