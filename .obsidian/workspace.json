@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "72f9e41219eac49d",
+        "id": "79ca07fb0fdcae55",
         "type": "tabs",
         "children": [
           {
-            "id": "54aba471a9de9d22",
+            "id": "32589fb7eac7314a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "43f6b6c304b2762a",
@@ -159,13 +160,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "6e7bdb3ec2533205",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +197,10 @@
       "cmdr:Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document": false
     }
   },
-  "active": "54aba471a9de9d22",
+  "active": "32589fb7eac7314a",
   "lastOpenFiles": [
+    "Newtons Second Law.md",
+    "Newtons.md",
     "Excalidraw/u sub practice ma1022.md",
     "Excalidraw/Keplers Laws 2026-08-28 12.55.38.excalidraw.md",
     "Excalidraw",
@@ -229,7 +242,6 @@
     "_resources/Colors",
     "Velocity.md",
     "Vector.md",
-    "Untitled.circuit-sketcher",
-    "Transparent.md"
+    "Untitled.circuit-sketcher"
   ]
 }
