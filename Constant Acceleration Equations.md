@@ -22,7 +22,7 @@ $$ \Delta d = \frac{1}{2}(v_i + v_f)\cdot t$$
 With $\frac{1}{2}(v_i+v_f)$ being the definition of **average velocity**, multiplying by $t$ results in the total distance.
 
 # Equation 3
-$$\Delta{d}=v_it+\frac{1}{2}at^2$$
+$$\Delta d=v_it+\frac{1}{2}at^2$$
 Derived from equation 2, differentiating this equation results in equation 1; this makes sense, as the derivative of distance is velocity.
 
 # Equation 4
