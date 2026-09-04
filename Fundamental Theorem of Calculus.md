@@ -2,7 +2,7 @@
 $$\frac{d}{dx}\left[ \int f(a)da \right]=f(x)$$
 # Basically a [[Derivative|Derivative]] is the opposite* of an [[Integral Rules|Integral]]
 
-$$F(x)=\frac{d}{dx}[f(x)] $$
+$$f(x)=\frac{d}{dx}[F(x)] $$
 $$\int_{a}^b f(x)dx = F(b)-F(a)$$
 # If we are given a rate of change, say $F'(x)$, and an interval $[a..b]$ then 
 $$\int_{a}^b F'(x)dx=F(b)-F(a)$$
